@@ -35,67 +35,50 @@
 ## 1. `네비게이션`
 
 ### 1-1. `메뉴`
-
   | SKPACK홈페이지 상단 메뉴바 | 설명 |
   |:---:|:---:|
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 4 53 32" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/d6cb3abb-4efe-4371-9f44-1093b32f6dc2"><br/>|<li> SKPACK 홈페이지의 실제 수정되는 부분입니다.|
-
-  
-  | 사이드바 > `네비게이션` > `메뉴` 화면 | 설명 |
-  |:---:|:---:|
-  <img width="1352" alt="스크린샷 2023-07-04 오후 5 47 29" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/41256478-0dd3-4ffe-bfc5-4687636bed43"> |<li>SKPACK 홈페이지 상단메뉴바 수정 메뉴입니다.<li>각 언어별로 편집이 가능합니다.<li>순서는 메뉴바 행의 순서를 의미합니다.<br/><br/><li>편집할 행의 우측 편집버튼을 클릭합니다.|
-  | `편집` > 메뉴 수정 화면 | 설명 |
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 5 50 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/7ed39087-7b94-43e3-a3ae-bed02b3534d7"> | 1. 각 언어별 메뉴를 수정합니다. <br/><br/> 2. 메뉴순서를 정한 후 적용버튼을 눌러줍니다.|
-
+  | <img width="1352" alt="스크린샷 2023-07-04 오후 4 53 32" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/d6cb3abb-4efe-4371-9f44-1093b32f6dc2"><br/> | <li>SKPACK 홈페이지 상단메뉴바 수정 메뉴입니다. <li> SKPACK 홈페이지의 실제 수정되는 부분의 이미지 입니다. |
+  | 관리자 페이지 좌측메뉴 > `네비게이션` > `메뉴` 화면 | 설명 |
+  <img width="1352" alt="스크린샷 2023-07-04 오후 5 47 29" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/41256478-0dd3-4ffe-bfc5-4687636bed43"> |<li>각 언어별로 편집이 가능합니다.<li>순서란은 홈페이지에 보여지는 좌측부터의 메뉴순서 입니다.|
+  | 화면 우측 `편집` > 메뉴 수정 화면 | 설명 |
+  | <img width="1352" alt="스크린샷 2023-07-04 오후 5 50 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/7ed39087-7b94-43e3-a3ae-bed02b3534d7"> | 1. 편집할 행의 우측 `편집` 버튼을 클릭합니다. <br/><br/> 2. 각 언어별 메뉴를 수정합니다. <br/><br/> 3. 메뉴순서를 정한 후 `적용` 버튼을 눌러줍니다.|
   
 <br/>
 
 ### 1-2. `서브메뉴`
 
-  | SKPACK홈페이지 상단 메뉴바 | 설명 |
+  | SKPACK홈페이지 상단 서브메뉴바 | 설명 |
   |:---:|:---:|
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 4 53 32" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/d6cb3abb-4efe-4371-9f44-1093b32f6dc2"><br/>|<li> SKPACK 홈페이지의 실제 수정되는 부분입니다.|
-
-  
-  | 사이드바 > `네비게이션` > `메뉴` 화면 | 설명 |
-  |:---:|:---:|
-  <img width="1352" alt="스크린샷 2023-07-04 오후 5 47 29" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/41256478-0dd3-4ffe-bfc5-4687636bed43"> |<li>SKPACK 홈페이지 상단메뉴바 수정 메뉴입니다.<li>각 언어별로 편집이 가능합니다.<li>순서는 메뉴바 행의 순서를 의미합니다.<br/><br/><li>편집할 행의 우측 편집버튼을 클릭합니다.|
-  | `편집` > 메뉴 수정 화면 | 설명 |
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 5 50 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/7ed39087-7b94-43e3-a3ae-bed02b3534d7"> | 1. 각 언어별 메뉴를 수정합니다. <br/><br/> 2. 메뉴순서를 정한 후 적용버튼을 눌러줍니다.|
+  | <img width="1352" alt="스크린샷 2023-07-05 오후 3 23 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/2442876c-21a0-4131-8db2-f92377e6dc9b"> |<li>SKPACK 홈페이지 세로열 서브메뉴바 수정 메뉴입니다. <li> SKPACK 홈페이지의 실제 수정되는 부분의 이미지 입니다.|
+  | 관리자 페이지 좌측메뉴 > `네비게이션` > `서브메뉴` 화면 | 설명 |
+  <img width="1512" alt="스크린샷 2023-07-05 오후 3 27 12" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/167da8e5-cbd4-4466-9998-7ad81572ce87"> |<li>각 언어별로 편집이 가능합니다.<li>순서란은 홈페이지에 보여지는 위에서부터의 서브메뉴 순서입니다.|
+  | 화면 우측 `편집` > 메뉴 수정 화면 | 설명 |
+  | <img width="1512" alt="스크린샷 2023-07-05 오후 3 27 44" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/73736149-0ff7-4ad9-a06e-2c69ee9f33cb"> | 1. 편집할 행의 우측 `편집` 버튼을 클릭합니다. <br/><br/> 2. 수정 할 메뉴를 각 언어별로 수정합니다. <br/><br/> 3. 순서(홈페이지 서브메뉴 위에서부터의 메뉴순서)를 선택 후 `적용` 버튼을 눌러 수정을 완료합니다.|
+  | 화면 우측 하단 `새메뉴` > 메뉴 추가 화면 | 설명 |
+  | <img width="1512" alt="스크린샷 2023-07-05 오후 3 27 55" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/0508487e-4b0f-4c5d-933e-d458bbc0d363"> | 1. 우측하단의 `새메뉴` 버튼을 클릭합니다. <br/><br/> 2. 추가 할 메뉴를 각 언어별로 작성합니다. <br/><br/> 3. 경로를 입력하고 순서와 주메뉴를 선택 후 `적용` 버튼을 눌러 추가를 완료합니다.|
 
   
 <br/>
 
 ### 1-3. `꼬리말-회사소개`
 
-  | SKPACK홈페이지 상단 메뉴바 | 설명 |
+  | SKPACK홈페이지 하단 꼬리말-회사소개 | 설명 |
   |:---:|:---:|
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 4 53 32" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/d6cb3abb-4efe-4371-9f44-1093b32f6dc2"><br/>|<li> SKPACK 홈페이지의 실제 수정되는 부분입니다.|
-
-  
-  | 사이드바 > `네비게이션` > `메뉴` 화면 | 설명 |
-  |:---:|:---:|
-  <img width="1352" alt="스크린샷 2023-07-04 오후 5 47 29" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/41256478-0dd3-4ffe-bfc5-4687636bed43"> |<li>SKPACK 홈페이지 상단메뉴바 수정 메뉴입니다.<li>각 언어별로 편집이 가능합니다.<li>순서는 메뉴바 행의 순서를 의미합니다.<br/><br/><li>편집할 행의 우측 편집버튼을 클릭합니다.|
-  | `편집` > 메뉴 수정 화면 | 설명 |
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 5 50 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/7ed39087-7b94-43e3-a3ae-bed02b3534d7"> | 1. 각 언어별 메뉴를 수정합니다. <br/><br/> 2. 메뉴순서를 정한 후 적용버튼을 눌러줍니다.|
+  | <img width="1372" alt="스크린샷 2023-07-05 오후 5 08 46" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/e41614af-6beb-493f-b4b5-5ec00ae2c5f5"> | <li>SKPACK 홈페이지 하단(Footer) 꼬리말-회사소개 수정 메뉴입니다. <li> SKPACK 홈페이지의 실제 수정되는 부분의 이미지 입니다.|
+  | 관리자 페이지 좌측메뉴 > `네비게이션` > `꼬리말-회사소개` 화면 | 설명 |
+  <img width="1512" alt="스크린샷 2023-07-05 오후 5 30 48" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/b03c3d52-4c3d-4d94-8c08-fa99356d31e7"> |<li>유튜브주소: 유튜브 로고 클릭시 연결될 영상 링크 주소입니다.<li>회사소개: 꼬리말-회사소개부분의 한국어 부분이며 아래로는 한국어의 영어, 일본어 번역본에 해당합니다.|
+  | 우측 하단 편집 모드`슬라이드 버튼` > 편집 모드 활성화 화면 | 설명 |
+  | <img width="348" alt="스크린샷 2023-07-05 오후 5 32 09" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/1457c1aa-df88-4a85-9813-3aab5e0bbe06"> | 1. 화면 우측 하단 편집 모드의 `슬라이드 버튼`을 클릭하여 편집모드를 활성화 시켜줍니다. <br/><br/> 2. 수정할 부분을 수정합니다. <br/><br/> 3. 수정이 완료되면 편집모드 우측의 `저장` 버튼을 눌러 수정을 완료합니다.|
 
   
 <br/>
 
 ### 1-4. `꼬리말-정보`
 
-  | SKPACK홈페이지 상단 메뉴바 | 설명 |
+  | SKPACK홈페이지 하단 꼬리말-회사소개 | 설명 |
   |:---:|:---:|
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 4 53 32" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/d6cb3abb-4efe-4371-9f44-1093b32f6dc2"><br/>|<li> SKPACK 홈페이지의 실제 수정되는 부분입니다.|
-
-  
-  | 사이드바 > `네비게이션` > `메뉴` 화면 | 설명 |
-  |:---:|:---:|
-  <img width="1352" alt="스크린샷 2023-07-04 오후 5 47 29" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/41256478-0dd3-4ffe-bfc5-4687636bed43"> |<li>SKPACK 홈페이지 상단메뉴바 수정 메뉴입니다.<li>각 언어별로 편집이 가능합니다.<li>순서는 메뉴바 행의 순서를 의미합니다.<br/><br/><li>편집할 행의 우측 편집버튼을 클릭합니다.|
-  | `편집` > 메뉴 수정 화면 | 설명 |
-  | <img width="1352" alt="스크린샷 2023-07-04 오후 5 50 13" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/7ed39087-7b94-43e3-a3ae-bed02b3534d7"> | 1. 각 언어별 메뉴를 수정합니다. <br/><br/> 2. 메뉴순서를 정한 후 적용버튼을 눌러줍니다.|
-
-  
-<br/><br/>
-
-
+  | <img width="1372" alt="스크린샷 2023-07-05 오후 5 08 46" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/e41614af-6beb-493f-b4b5-5ec00ae2c5f5"> | <li>SKPACK 홈페이지 하단(Footer) 꼬리말-회사소개 수정 메뉴입니다. <li> SKPACK 홈페이지의 실제 수정되는 부분의 이미지 입니다.|
+  | 관리자 페이지 좌측메뉴 > `네비게이션` > `꼬리말-회사소개` 화면 | 설명 |
+  <img width="1512" alt="스크린샷 2023-07-05 오후 5 30 48" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/b03c3d52-4c3d-4d94-8c08-fa99356d31e7"> |<li>유튜브주소: 유튜브 로고 클릭시 연결될 영상 링크 주소를 수정합니다.<li>회사소개: 꼬리말-회사소개부분의 한국어 부분이며 아래로는 한국어의 영어, 일본어 번역본에 해당합니다.|
+  | 화면 우측 하단 편집 모드의 `슬라이드 버튼`을 클릭하여 편집모드를 활성화 시켜줍니다. > 편집 모드 활성화 화면 | 설명 |
+  | <img width="348" alt="스크린샷 2023-07-05 오후 5 32 09" src="https://github.com/rlagks26/Admin-Page-Manual/assets/111618686/1457c1aa-df88-4a85-9813-3aab5e0bbe06"> | 1. 화면 우측 하단 편집 모드의 `슬라이드 버튼`을 클릭하여 편집모드를 활성화 시켜줍니다. <br/><br/> 2. 수정할 부분을 수정합니다. <br/><br/> 3. 수정이 완료되면 편집모드 우측의 `저장` 버튼을 눌러 수정을 완료합니다.|
